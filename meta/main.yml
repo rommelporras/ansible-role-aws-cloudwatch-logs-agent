@@ -1,0 +1,21 @@
+dependencies: []
+galaxy_info:
+  author: Rommel Porras (https://rommelporras.com/)
+  company: DevOps Cycle (https://www.devopscycle.com/)
+  license: BSD 3-Clause
+
+  min_ansible_version: 2.4
+
+  platforms:
+    - name: Ubuntu
+      versions:
+        - trusty
+        - xenial
+        - bionic
+
+  galaxy_tags:
+    - cloudwatchlogs
+    - logs
+    - logging
+    - cloudwatch
+    - awslogs
